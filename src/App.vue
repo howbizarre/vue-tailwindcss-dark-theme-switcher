@@ -1,5 +1,5 @@
 <template>
-    <div class="container max-w-3xl">
+    <div class="container max-w-3xl max-sm:mt-10">
         <div class="card-container grid grid-cols-6 gap-4 relative">
             <div class="flex justify-center items-start">
                 <a href="https://spaceplace.nasa.gov/launching-into-space/en/" class="inline-flex items-center justify-center p-2 bg-indigo-500 hover:bg-indigo-700 transition-all rounded-md shadow-lg hover:shadow-none mt-1">
@@ -16,7 +16,7 @@
                     How Do We Launch Things Into Space?
                 </h3>
                 <p class="text-slate-500 dark:text-slate-400 mt-2 text-sm">
-                    We launch things into space by putting them on rockets with enough fuel — called propellant — to boost them above most of
+                    We launch things into space by putting them on rockets with enough fuel, called propellant, to boost them above most of
                     Earth’s atmosphere. Once a rocket reaches the right distance from Earth, it releases the satellite or spacecraft.
                 </p>
             </div>
