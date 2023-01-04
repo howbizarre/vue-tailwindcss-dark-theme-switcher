@@ -15,12 +15,12 @@ Use official documentation on the Tailwindcss website but start from point 2 (In
 3. Add theme switcher
 
 I will add it to the index.html file to visualize its usage. I leave it to you to find the most convenient way to use it in your project.
-> See the index.html from repository
+> See the [index.html](https://github.com/howbizarre/vue-tailwindcss-dark-theme-switcher/blob/master/index.html) from repository
 
 4. Add test content
 
 I have added the contents of the App.vue to test the functionality.
-> See the src/App.vue from repository
+> See the [src/App.vue](https://github.com/howbizarre/vue-tailwindcss-dark-theme-switcher/blob/master/src/App.vue) from repository
 
 ## Project Setup
 
