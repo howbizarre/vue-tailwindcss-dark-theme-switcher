@@ -22,6 +22,10 @@ I will add it to the index.html file to visualize its usage. I leave it to you t
 I have added the contents of the App.vue to test the functionality.
 > See the [src/App.vue](https://github.com/howbizarre/vue-tailwindcss-dark-theme-switcher/blob/master/src/App.vue) from repository
 
+## Demo
+
+You can see how it works at my [GitHub page](https://howbizarre.github.io/dark/)
+
 ## Project Setup
 
 ```sh
