@@ -24,6 +24,11 @@
     </div>
 </template>
 
+<script lang="ts" setup>
+import LogRocket from 'logrocket';
+LogRocket.init(import.meta.env.VITE_LOGROCKET_ID);
+</script>
+
 <style scoped>
 .card-container {
     @apply 
