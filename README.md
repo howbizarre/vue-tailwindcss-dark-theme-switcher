@@ -24,7 +24,8 @@ I have added the contents of the App.vue to test the functionality.
 
 ## Demo
 
-You can see how it works at my [GitHub page](https://howbizarre.github.io/)
+You can see how it works at my [GitHub page](https://bizarre.how/)
+Or on the [demo page](https://bizarre.how/dark/)
 
 ## Project Setup
 
